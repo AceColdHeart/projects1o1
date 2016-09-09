@@ -1,0 +1,103 @@
+body{
+  background-image: url(img/background.jpg);
+margin:0;
+font-family: Arial, Helvetica, sans-serif;
+}
+header{
+height:500px;
+
+background-position: center;
+background-size: cover;
+color:white;
+}
+nav{
+padding:40px 10%;
+
+}
+h1, ul {
+margin:0;
+  display: inline-block;
+}
+h1{
+  font-size: 50px;
+  letter-spacing: -5px;
+}
+h1 a {
+  text-decoration: none;
+  color:inherit;
+}
+h1 span{
+  color:hsl(194, 84%, 66%);
+}
+ul{
+  float:right;
+}
+ul li {
+  display:inline-block;
+  line-height: 50px;
+  padding:0 20px;body{
+  margin:0;
+  font-family: Arial, Helvetica, sans-serif;
+  }
+  header{
+  height:500px;
+  background-image: url(../img/sky-690293_1920.jpg);
+  background-position: center;
+  background-size: cover;
+  color:white;
+  }
+  nav{
+  padding:40px 10%;
+
+  }
+  h1, ul {
+  margin:0;
+    display: inline-block;
+  }
+  h1{
+    font-size: 50px;
+    letter-spacing: -5px;
+  }
+  h1 a {
+    text-decoration: none;
+    color:inherit;
+  }
+  h1 span{
+    color:hsl(194, 84%, 66%);
+  }
+  ul{
+    float:right;
+  }
+  ul li {
+    display:inline-block;
+    line-height: 50px;
+    padding:0 20px;
+    margin-left: 10px;
+    /*padding:20px 0;*/
+  }
+  ul li:hover{
+    cursor:pointer;
+  }
+  ul li :hover,
+  .active{
+  background-color: hsl(194, 84%, 66%);
+    /*border-radius:20px 50%;*/
+    border-top-right-radius:20px 50%;
+    border-bottom-right-radius:20px 50%;
+    border-top-left-radius: 20px 50%;
+    border-bottom-left-radius: 20px 50%;
+  margin-left: 10px;
+  /*padding:20px 0;*/
+}
+ul li:hover{
+  cursor:pointer;
+}
+ul li :hover,
+.active{
+background-color: hsl(194, 84%, 66%);
+  /*border-radius:20px 50%;*/
+  border-top-right-radius:20px 50%;
+  border-bottom-right-radius:20px 50%;
+  border-top-left-radius: 20px 50%;
+  border-bottom-left-radius: 20px 50%;
+  http://www.templatemonster.com/demo/58152.html
