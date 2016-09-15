@@ -1,0 +1,30 @@
+body{
+  background-color: #eee8f6;
+  color: #a891d7;
+}
+ul{
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  align-content: flex-end;
+}
+li{
+flex:1;
+}
+a{
+display: flex;
+align-content: center;
+justify-content: space-between;
+}
+article{
+  display: flex;
+  justify-content:center;
+
+  align-content:center;
+}
+/*.PJ{
+align-content: flex-end;*/
+/*}*/
+/*h6{
+  display: flex;
+flex-direction: column;*/
